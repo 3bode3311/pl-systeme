@@ -1,1 +1,2 @@
-bot using heroku # pl-systeme
+# super-super-heroku-bot
+Bot using heroku, 24/7!
